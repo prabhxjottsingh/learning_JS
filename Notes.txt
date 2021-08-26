@@ -1,0 +1,10 @@
+<__________________________________VIDEO 47__________________________________>
+It is preferred to add JavaScript After BODY TAG.
+
+We can see the errors in JS, in Console colunm (Inspect->Console)
+
+<__________________________________VIDEO 48__________________________________>
+In this video, we will learn how to add JS in html and how to write code.
+No need to tell what datatype we are using, just write VAR.
+This thing of not mentioning a particular datatype is called DYNAMIC TYPING.
+2**9 = 2^9
